@@ -17,6 +17,6 @@ g++ -LOpenGL\lib main.o -o main.exe -lGlaux -lGLU32 -lglui32 -lglut32 -lOPENGL32
 
 Command line running:
 ---------------------
-Make sure `glut32.dll` is present in the same folder
+Make sure `glut32.dll` is present in the same folder \
 Run `main.exe`
 
